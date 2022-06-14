@@ -19,13 +19,13 @@
 ✓ Project **“From Homeland to Homeland”** 
 - A static responsive website that showcases the hometowns of some of Practicum's employees.
 - Languages: HTML | CSS: Media Queries, Flexbox, Grid
-- [Live Webpage] (https://cratcha.github.io/web_project_3/)
-- [Repository] (https://github.com/cratcha/web_project_3)
+- [Live Webpage](https://cratcha.github.io/web_project_3/)
+- [Repository](https://github.com/cratcha/web_project_3)
 
 ✓ Project **“Learning how to learn”**
 - A static single-page website that explains the most effective learning technics.
 - Languages: HTML | CSS
-- [Repository] (https://github.com/cratcha/web_project_1))
+- [Repository](https://github.com/cratcha/web_project_1))
 
 
 ## Connect with me on:
