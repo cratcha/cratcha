@@ -16,7 +16,7 @@
 - [Live Webpage](https://5hraddha.github.io/awesome-container-company/) 
 - [Repository](https://github.com/cratcha/awesome-container-company)
 
-✓ **Around the US** project is is full (MERN) stack web app that allows users to create an account, 
+✓ **Around the US** project is a full (MERN) stack web app that allows users to create an account, 
   log in, add, delete, like, and unlike photos and update their avatar.
 - Tech: HTML, CSS, React.js, Express.js, REST APIs, MongoDB
 - [Live Webpage](https://cratcha.students.nomoreparties.sbs/signin) 
