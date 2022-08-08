@@ -11,6 +11,11 @@
   
 
 ## Recent projects:
+✓ **Group Project "A Landing Page for Awesome Container Company"**.
+- Tech: React | Tailwind CSS | Framer Motion | AWS SES | ExpressJS
+- [Live Webpage](https://5hraddha.github.io/awesome-container-company/) 
+- [Repository](https://github.com/cratcha/awesome-container-company)
+
 ✓ **Around the US** project is an interactive page where users can add, remove, or like photos.
 - Languages: JavaScript, HTML, CSS
 - [Live Webpage](https://cratcha.github.io/web_project_4/) 
