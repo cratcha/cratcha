@@ -8,7 +8,12 @@
   
  <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=cratcha&show_icons=true&theme=dracula&hide=stars" /> </p>
 
-  
+
+## Currently Working On:
+✓ **Group Project "A Landing Page for mental health startup Sindano"**.
+- Tech: React | Styled Components | Framer Motion | StoryBook | 
+- [Repository](https://github.com/pstaal/sindano)
+
 
 ## Recent projects:
 ✓ **Group Project "A Landing Page for Awesome Container Company"**.
@@ -19,7 +24,6 @@
 ✓ **Around the US** project is a full (MERN) stack web app that allows users to create an account, 
   log in, add, delete, like, and unlike photos and update their avatar.
 - Tech: HTML, CSS, React.js, Express.js, REST APIs, MongoDB
-- [Live Webpage](https://cratcha.students.nomoreparties.sbs/signin) 
 - [Repository](https://github.com/cratcha/react-around-api-full)
 
 ✓ **Around the US** project is an interactive page where users can add, remove, or like photos.
